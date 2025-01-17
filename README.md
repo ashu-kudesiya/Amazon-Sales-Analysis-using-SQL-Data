@@ -99,56 +99,59 @@ Here are some key visualizations:
 
 | Question 1 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/01.png" alt="Screenshot 1" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/1.png" alt="Screenshot 1" width="800"> |
 
 | Question 2 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/02.png" alt="Screenshot 2" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/2.png" alt="Screenshot 2" width="800"> |
 
 | Question 3 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/03.png" alt="Screenshot 3" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/3.png" alt="Screenshot 3" width="800"> |
 
 | Question 4 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/04.png" alt="Screenshot 4" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/4.png" alt="Screenshot 4" width="800"> |
 
 | Question 5 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/05.png" alt="Screenshot 5" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/5.png" alt="Screenshot 5" width="800"> |
 
 | Question 6 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/06.png" alt="Screenshot 6" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/6.png" alt="Screenshot 6" width="800"> |
 
 | Question 7 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/07.png" alt="Screenshot 7" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/7.png" alt="Screenshot 7" width="800"> |
 
 | Question 8 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/08.png" alt="Screenshot 8" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/8.png" alt="Screenshot 8" width="800"> |
 
 | Question 9 |
 |--------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/09.png" alt="Screenshot 9" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/9.png" alt="Screenshot 9" width="800"> |
+
 
 | Question 10.1 |
 |-----------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/10_1.png" alt="Screenshot 10_1" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/10.1.png" alt="Screenshot 10.1" width="800"> |
+
 
 | Question 10.2 |
 |-----------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/10_2.png" alt="Screenshot 10_2" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/10.2.png" alt="Screenshot 10.2" width="800"> |
+
 
 | Question 10.3 |
 |-----------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/10_3.png" alt="Screenshot 10_3" width="800"> |
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/10.3.png" alt="Screenshot 10.3" width="800"> |
+
 
 | Question 10.4 |
 |-----------------|
-| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis/blob/main/Screenshot/10_4.png" alt="Screenshot 10_4" width="800"> |
-
+| <img src="https://github.com/ashu-kudesiya/Amazon-Sales-Analysis-using-SQL-Data/blob/main/Scrrenshot/10.4.png" alt="Screenshot 10.4" width="800"> |
 
 ---
 
